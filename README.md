@@ -15,6 +15,6 @@ Display all ***Student Names*** in the List View. Used `Scroll List View`. <br /
 Screen to enter ***Student Details*** with validation. Form takes inputs like Name, Age, Gender, etc. <br />
 
 ## 4. Student Details
-Drags the sheet with student details. Used `Bottom Sheet Drawer`.
+Drags the sheet with ***Student Details***. Used `Bottom Sheet Drawer`.
 
 
