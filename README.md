@@ -2,6 +2,7 @@
 
 A React-Native iOS application that allows user to create, read, update, and delete data about students.
 <br />
+***Technology/Tools Used***: Javascript, React Native, Firebase, Firestore, Xcode, iOS Simulator
 ## Screens and Components
 
 ## 1. Main Tab
